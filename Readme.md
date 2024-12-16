@@ -1,6 +1,3 @@
-Here’s a **professional and comprehensive README file** for your **AI Interview Bot** project. This README is designed to highlight the features, installation process, and usage clearly for anyone who visits your repository.
-
----
 
 # **AI Interview Bot**
 
